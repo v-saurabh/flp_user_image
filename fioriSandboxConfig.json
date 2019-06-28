@@ -1,0 +1,9 @@
+{
+	"applications": {},
+	"bootstrapPlugins": {
+		"onpremuserimg": {
+			"component": "com.demo.flp.usrimg.op",
+			"url": "../../../../../"
+		}
+	}
+}
